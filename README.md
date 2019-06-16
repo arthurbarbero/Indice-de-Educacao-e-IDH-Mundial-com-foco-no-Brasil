@@ -6,7 +6,7 @@ Professor Masanori
 
 Alunos: Turma A
 - Arthur Barbero
-- Leandro Lopes
+- Leandro Lopes Bueno
 
 ### Requisitos
 
